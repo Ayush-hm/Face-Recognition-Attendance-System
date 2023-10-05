@@ -26,7 +26,7 @@ Uses [***index.html***](/templates/index.html) in `templates` and [***style.css*
     
     ![Webpage](/images/Flask_Server.jpg)
 
-
+## Working
 ![image](https://github.com/Ayush-hm/Face-Recognition-Attendance-System/assets/71936861/b8549239-92c2-4c77-b52e-80748a595629)
 ![image](https://github.com/Ayush-hm/Face-Recognition-Attendance-System/assets/71936861/8cd3dfb3-2579-4d8b-bdc5-8ccf50919941)
 
