@@ -25,3 +25,6 @@ Uses [***index.html***](/templates/index.html) in `templates` and [***style.css*
     A Flask server to view the latest Attendance Detail and download it in .CSV form and upload new face Encodings data to the Rpi
     
     ![Webpage](/images/Flask_Server.jpg)
+
+
+![image](https://github.com/Ayush-hm/Face-Recognition-Attendance-System/assets/71936861/b8549239-92c2-4c77-b52e-80748a595629)
